@@ -1,0 +1,2 @@
+Some text in a file
+More text in the same file
